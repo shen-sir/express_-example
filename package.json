@@ -1,0 +1,19 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "express练习",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shen-sir/express_-example.git"
+  },
+  "author": "674735426@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shen-sir/express_-example/issues"
+  },
+  "homepage": "https://github.com/shen-sir/express_-example#readme"
+}
