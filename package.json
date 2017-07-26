@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/shen-sir/express_-example/issues"
   },
-  "homepage": "https://github.com/shen-sir/express_-example#readme"
+  "homepage": "https://github.com/shen-sir/express_-example#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express3-handlebars": "^0.5.2",
+    "glob": "^7.1.2",
+    "handlebars": "^4.0.10"
+  }
 }
